@@ -2,7 +2,7 @@
 $host = 'localhost';
 $data = 'library_project'; 
 $user = 'root'; 
-$pass = 'mysql';
+$pass = '';
 $chrs = 'utf8mb4';
 $attr = "mysql:host=$host;dbname=$data;charset=$chrs";
 $opts =
