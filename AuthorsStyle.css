@@ -1,0 +1,18 @@
+body {
+      text-align: center;
+      background-image: linear-gradient(rgba(10, 10, 10, 0.6), rgba(10, 10, 10, 0.6)),
+      url('libraries.jpg');
+      background-color: cornsilk;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      color: aliceblue;
+    }
+table {
+      border: 1;
+      border-radius: 20;
+      font-size: large;
+      color: white;
+      text-align: center;
+      margin: auto;
+    }

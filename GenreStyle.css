@@ -1,0 +1,28 @@
+.main {
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1px white;
+}
+
+body {
+    font-size: large;
+    background-color: #B2780A;
+    color: white;
+}
+
+header {
+    background-color: #DEAB22;
+}
+
+div {
+    background-color: #4F5104;
+    width: 55%;
+}
+
+hr {
+    color: #B8AFBC;
+}
+
+.divelem1 {
+    width: 75%;
+}

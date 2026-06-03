@@ -1,0 +1,22 @@
+.main {
+    text-align: center;
+    text-shadow: 1px 1px white;
+}
+
+body {
+    font-size: large;
+    background-color: #518a8d;
+}
+
+header {
+    background-color: #b9d3ce;
+}
+
+div {
+    background-color: #84525e;
+    width: 55%;
+}
+
+.divelem1 {
+    width: 75%;
+}

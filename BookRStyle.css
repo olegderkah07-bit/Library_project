@@ -1,0 +1,35 @@
+body {
+    background-color: #122034;
+
+}
+
+h1 {
+    color: #dc7928;
+}
+
+table {
+    background-color: #4b666e;
+    color: #dc7928;
+}
+
+.main {
+    text-align: center;
+}
+
+tr {
+    height: 10px;
+    overflow: hidden;
+}
+
+.tdc2 {
+    line-height: 1.5;
+}
+
+.tdc {
+    width: 20%;
+}
+
+.text_rec {
+    height: 40px;
+    overflow: hidden
+}
